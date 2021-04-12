@@ -27,7 +27,8 @@ To enable the nvidia runtime with latest update of systemd you will need to disa
 options systemd.unified_cgroup_hierarchy=false root... rw
 ```
 
-Buy me a coffee:
+### Buy me a coffee:
 
 ETH: 0x72a5a4c56d5e91343fbb90089040312462a3568e
+
 RVN: RSgqkahBHG6Yo8xWVkDBHMHg4Sk2Sx9vWf
