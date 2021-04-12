@@ -20,3 +20,8 @@ Then run as follows
 ```
 docker run --rm --runtime=nvidia -d --name miner damel/trexminer:latest --env-file=/path/to/your/envfile
 ```
+
+Buy me a coffee:
+
+ETH: 0x72a5a4c56d5e91343fbb90089040312462a3568e
+RVN: RSgqkahBHG6Yo8xWVkDBHMHg4Sk2Sx9vWf
