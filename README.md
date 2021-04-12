@@ -20,6 +20,12 @@ Then run as follows
 ```
 docker run --rm --runtime=nvidia -d --name miner damel/trexminer:latest --env-file=/path/to/your/envfile
 ```
+## Setup
+To enable the nvidia runtime with latest update of systemd you will need to disable the unified_cgroup flag in your bootloader
+```sh
+...
+options systemd.unified_cgroup_hierarchy=false root... rw
+```
 
 Buy me a coffee:
 
